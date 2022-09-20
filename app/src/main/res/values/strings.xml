@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">laba2oop</string>
+
+    <string-array name="property_type">
+        <item>Любой</item>
+        <item>Новостройка</item>
+        <item>Вторичное</item>
+        <item>Строительство</item>
+    </string-array>
+
+    <string-array name="credit_time">
+        <item>Любой</item>
+        <item>3Года</item>
+        <item>4Года</item>
+        <item>5Лет</item>
+    </string-array>
+</resources>
